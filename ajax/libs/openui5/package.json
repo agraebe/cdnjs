@@ -1,5 +1,5 @@
 {
-  "name": "OpenUI5",
+  "name": "openui5",
   "filename": "sap-ui-core.min.js",
   "description": "OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.",
   "version": "1.24.5",
